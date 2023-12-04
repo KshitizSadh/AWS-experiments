@@ -22,8 +22,9 @@
 
 ## Hyperscalars : A hyperscaler is a type of large-scale data center that offers massive computing resources, typically in the form of an elastic cloud platform. Organizations use them to deploy and manage large-scale applications and services.
 
-![Screenshot from 2023-11-26 11-17-36](https://github.com/KRIISHSHARMA/AWS/assets/86760658/a37cc108-bf86-481f-80cd-ea7ec4b1e5a1)
-![Screenshot from 2023-11-26 11-19-52](https://github.com/KRIISHSHARMA/AWS/assets/86760658/7f6c1e83-29b4-43dc-9cf5-2e20cdc321fa)
+![1](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/21edfca6-ace3-40d4-85c5-763834a984cd)
+![2](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/b8df980e-01d3-47f8-aa93-09de6ba5c949)
+
 
 ## Compute services 
 - EC2  
@@ -42,20 +43,24 @@ backup. That data stored which are not needed instantly , eg old data . Takes ti
 - VPC : own insolated environment in a public cloud
 - Domain Name Service - Route 53
 
-![Screenshot from 2023-11-26 17-59-50](https://github.com/KRIISHSHARMA/AWS/assets/86760658/a6881e65-16b5-4e2f-8480-973fee9344f6)
+![3](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/d935eda9-c3c1-42b7-ad83-f155663f230a)
 
 - public subnet : can receive traffic from outerworld 
 - private subnet : cannot receive traffic from outerworld but may or may not send traffic to outerworld
 
-![Screenshot from 2023-11-26 18-03-33](https://github.com/KRIISHSHARMA/AWS/assets/86760658/dee853ad-6c86-4238-98ec-ba7ba60b7831)
-![Screenshot from 2023-11-26 18-05-39](https://github.com/KRIISHSHARMA/AWS/assets/86760658/0e807497-f6ce-484e-82c0-40f1bcd83c45)
+![4](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/685a89b5-624e-4317-865a-ffd028b86e0a)
 
+![5](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/c1eac689-affe-4ee1-9ab9-c12c9ccee161)
 
-![Screenshot from 2023-11-26 13-40-57](https://github.com/KRIISHSHARMA/AWS/assets/86760658/3dcafdd0-84f9-4ecd-9843-e6ea71061a3f)
-![Screenshot from 2023-11-26 13-46-08](https://github.com/KRIISHSHARMA/AWS/assets/86760658/2ba98aae-9871-40a1-89a9-3bbcaa961fdc)
-![Screenshot from 2023-11-26 13-47-33](https://github.com/KRIISHSHARMA/AWS/assets/86760658/a7b8c06a-c163-4b80-a052-d433928260ff)
-![Screenshot from 2023-11-26 13-57-52](https://github.com/KRIISHSHARMA/AWS/assets/86760658/86722cee-9cc8-47be-9e62-a4f6fb8dc842)
-![Screenshot from 2023-11-26 13-59-20](https://github.com/KRIISHSHARMA/AWS/assets/86760658/2edee858-bceb-49da-8c19-d87403bf0582)
+![6](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/c24c2de0-75ca-4449-885a-8fd207acfa18)
+
+![7](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/c4be8b85-ff5f-4d75-9079-4902cf7315f1)
+
+![8](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/60f36d04-b892-43b6-8784-b1c8aec39bdd)
+
+![9](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/4c6e22f0-1a9c-4473-8064-4784a9ef4416)
+
+![10](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/2f10ab4b-bbfd-4ada-add5-658538244d19)
 
 - **Apache web server works on layer 7 , using single apache server one can deploy multiple applications on different ports based on paths (URLbased) (virtual hosts) . virtual hosting can only work on layer 7**
 
@@ -65,47 +70,47 @@ backup. That data stored which are not needed instantly , eg old data . Takes ti
 
 - security groups : A security group controls the traffic that is allowed to reach and leave the resources that it is associated with. For example, after you associate a security group with an EC2 instance, it controls the inbound and outbound traffic for the instance. When you create a VPC, it comes with a default security group. (acts as a firewall)
 
-![Screenshot from 2023-11-26 15-39-41](https://github.com/KRIISHSHARMA/AWS/assets/86760658/90eeb7f4-8428-4876-8a3e-288feb952aa1)
-![Screenshot from 2023-11-26 15-39-41](https://github.com/KRIISHSHARMA/AWS/assets/86760658/73bc04f3-081a-4451-adf4-f89c488b8a67)
-![Screenshot from 2023-11-26 15-40-34](https://github.com/KRIISHSHARMA/AWS/assets/86760658/e96e05df-b33c-400a-8264-946d9a878644)
-![Screenshot from 2023-11-26 15-40-51](https://github.com/KRIISHSHARMA/AWS/assets/86760658/bb9edf0e-42cb-49b8-abe9-34f0c2d35e87)
+![11](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/f2799c43-c532-4566-a9df-6571e2007462)
 
-### Creating a target group 
+![12](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/498ab7fc-edb7-4895-ab79-0bbbc02c3a7f)
+
+![13](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/470981f0-3fe6-4f64-b68f-e8fc88f5f6e0)
+
+![15](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/41772bc6-0463-40fe-b14b-57750d25c9fd)
+
+
+### Creating a target group  
+
 - Your load balancer routes requests to the targets in a target group and performs health checks on the targets.
 - LB routes traffic to target group then traffic group routes traffic to the back end ec2 instances or IP addresses etc
-
-![Screenshot from 2023-11-26 15-49-16](https://github.com/KRIISHSHARMA/AWS/assets/86760658/eff46d2f-b504-44e9-9269-7a2b877930d6)
-![Screenshot from 2023-11-26 15-49-16](https://github.com/KRIISHSHARMA/AWS/assets/86760658/5500b66f-9467-4353-9599-5186bcbb156a)
-![Screenshot from 2023-11-26 15-50-48](https://github.com/KRIISHSHARMA/AWS/assets/86760658/848472d8-4fda-4580-9563-d10d1e17202c)
-
-![Screenshot from 2023-11-26 16-19-25](https://github.com/KRIISHSHARMA/AWS/assets/86760658/bb5bbe47-681f-4383-8825-a3974aef26a4)
-![Screenshot from 2023-11-26 16-24-54](https://github.com/KRIISHSHARMA/AWS/assets/86760658/f9a7faaf-0855-4cc3-afa5-fc65e9793b22)
+  
+![16](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/5854f26e-8508-4736-b304-6a025ca40e31)
+![17](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/f1ec0251-58b8-45c6-9185-14f41a8897c0)
+![18](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/b9e39e05-8584-4756-ba13-eac93fc9e2ea)
+![19](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/650e9e64-b0ab-483a-b20a-0e19cd97585e)
 
 ## Autoscalling 
-![Screenshot from 2023-11-26 16-44-57](https://github.com/KRIISHSHARMA/AWS/assets/86760658/7dc2321e-8595-4bd4-8c6e-b3696e5a6999)
+![20](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/a48f6352-8d63-432b-bcaf-beb28b07737b)
 
 ### Creating launch template
-![Screenshot from 2023-11-26 16-59-20](https://github.com/KRIISHSHARMA/AWS/assets/86760658/1ee051f9-5524-4a61-985b-4cbe32bee5ee)
-![Screenshot from 2023-11-26 17-01-18](https://github.com/KRIISHSHARMA/AWS/assets/86760658/ce935d36-35b6-4fbf-8662-d4e0ccb17fcc)
-![Screenshot from 2023-11-26 17-17-33](https://github.com/KRIISHSHARMA/AWS/assets/86760658/8aee6470-e044-437e-a5f8-8811d748f1f0)
-![Screenshot from 2023-11-26 17-19-34](https://github.com/KRIISHSHARMA/AWS/assets/86760658/884c3f5a-4104-46f1-b197-164ce1cf29e4)
-
-
-![Screenshot from 2023-11-26 17-05-17](https://github.com/KRIISHSHARMA/AWS/assets/86760658/b3b85552-b55e-4e5d-bb8e-b221add8bc17)
-![Screenshot from 2023-11-26 17-08-50](https://github.com/KRIISHSHARMA/AWS/assets/86760658/b7f17b5a-3a38-4cf3-a754-fca7fc871c01)
-![Screenshot from 2023-11-26 17-11-22](https://github.com/KRIISHSHARMA/AWS/assets/86760658/8fe1d28f-e615-48f4-8e19-c1e6932263e2)
-![Uploading Screenshot from 2023-11-26 17-22-51.png…]()
-
+![21](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/f7e315d0-260f-4a9c-82ae-452b2ee22e1d)
+![22](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/01dfcd37-999c-475c-a4df-3a43c70b88b0)
+![23](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/e878a457-b14a-46e7-8321-f3bd95a371a1)
+![24](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/055bd32a-ea77-43fd-928e-88b1e27ba7c3)
+![25](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/e5131c56-7f52-4cbc-baf4-1daed3ceee78)
+![26](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/6fac9546-4693-4757-adc8-2012064a984b)
+![27](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/6dd37431-cfd3-4845-8c2a-b9fedba2f0c7)
+![28](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/561b0b44-f2da-444f-b19d-fadc5875b6e4)
 
 ### Creating scalling policies 
-![Screenshot from 2023-11-26 17-34-29](https://github.com/KRIISHSHARMA/AWS/assets/86760658/1e2b5ae4-2379-4a52-a3d8-687e9e1bf3cd)
-![Screenshot from 2023-11-26 17-35-23](https://github.com/KRIISHSHARMA/AWS/assets/86760658/8cead298-7c0e-4f1d-878e-ef6792825f03)
+![29](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/b371812f-0100-43cb-80d8-a4109c165fea)
+![30](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/7f0818b1-ec26-4463-8a2b-6a8ccb0c76ba)
 
 ## Artificial load 
 ``` bash
 htop
 ```
-![Screenshot from 2023-11-26 17-39-48](https://github.com/KRIISHSHARMA/AWS/assets/86760658/c6aa182a-0282-45f5-b610-c3aad12e57cd)
+![31](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/4173f154-3fd0-44fb-9402-b75443abdcaf)
 
 - currently 0
 
@@ -113,11 +118,11 @@ htop
 ``` bash
 seq 999999999999999999999 > /dev/null &
 ```
-![Screenshot from 2023-11-26 17-43-25](https://github.com/KRIISHSHARMA/AWS/assets/86760658/93d6f92d-ba24-4e4a-8f2e-5901802d18f0)
 
-![Screenshot from 2023-11-26 17-58-10](https://github.com/KRIISHSHARMA/AWS/assets/86760658/88495da3-fbbe-4e66-bfc3-94c81d92787c)
-![Screenshot from 2023-11-26 17-58-29](https://github.com/KRIISHSHARMA/AWS/assets/86760658/00cd991a-994e-4890-9176-adb65dbf3ccd)
-![Screenshot from 2023-11-26 18-11-32](https://github.com/KRIISHSHARMA/AWS/assets/86760658/7ce90daa-db12-4b4c-b655-ba62d155f060)
+![32](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/f0acb39f-f22e-455c-bf04-308c4bbe7717)
+![33](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/6102b032-4096-472a-99e6-57b7e4e72c9e)
+![34](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/6c6ec8e3-4b7d-436d-b7a6-0491bfb6f3bb)
+![35](https://github.com/KshitizSadh/AWS-experiments/assets/142923024/c26e8c03-7711-4e88-9dce-356c411991dc)
 
 - going to the DNS name and reloading will take you to diff targets(3)
 - this is **round robin** at work  
